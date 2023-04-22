@@ -2,3 +2,4 @@
 a simple notification maker
 inspired by DNAScanner.
 code and UI from ChatGPT.
+compiled with PS2EXE
